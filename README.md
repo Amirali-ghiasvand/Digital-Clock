@@ -80,12 +80,6 @@ setInterval(function () {
     document.querySelector("#seconds").innerHTML = String(time.getSeconds()).padStart(2, '0');
 }, 1000);
 ```
-
----
-
-## Demo
-[View Live Demo](#) *(Add a link to your GitHub Pages or live deployment)*
-
 ---
 
 ## Future Enhancements
@@ -95,7 +89,4 @@ setInterval(function () {
 
 ---
 
-## License
-This project is open-source and available under the **MIT License**.  
 
-Feel free to fork and enhance it! 🌟
